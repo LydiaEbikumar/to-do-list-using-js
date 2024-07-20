@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: rgb(16, 16, 130);
+}
+/* .task{
+    margin: 20px;
+    height: 30px;
+    margin-left: 24%;
+    margin-top: 20px;
+    padding-right: 50px;
+} */
+/* .task1{
+    padding:5px 10px 5px 10px;
+    background-color: rgb(156, 156, 210);
+    font-weight: bold;
+}
+.task2{
+    padding:5px 15px 5px 15px;
+    background-color: rgb(156, 156, 210);
+    font-weight: bold;
+} */
+.someInput{
+    display: flex;
+    margin: 10px;
+    margin-left: 41%;
+}
+#mainform{
+    margin-left: 41%;
+    font-weight: bold;
+   
+    
+}
+.task1{
+    padding:5px 10px 5px 10px;
+    background-color: rgb(156, 156, 210);
+    font-weight: bold;
+}
+.task{
+   
+    height: 25px;
+   
+}
